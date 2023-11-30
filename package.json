@@ -1,0 +1,17 @@
+{
+  "name": "adivina_numero_secreto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "adivinanza.js",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "readline-async": "^0.1.0",
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
